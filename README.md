@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="OIP-C.jpg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="./OIP-C.jpg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">学而不思则罔，思而不学则殆！</p>
 </p>
