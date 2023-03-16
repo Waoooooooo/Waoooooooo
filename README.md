@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## show you my code          
-## Hello，欢迎来到我的主页！👋
-![About me](https://github-readme-stats.vercel.app/api?username=Waoooooooo&show_icons=true&show_icons=true)
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waoooooooo&layout=compact)
--->
+       
+### Hello，欢迎来到我的主页！👋
 
----
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Waoooooooo&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true&count_private=true"/>
+
+### 📫 How about me: 
+
+- tall
+- handsome
+- shy
