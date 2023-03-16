@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Waoooooooo/Waoooooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello！
-# 欢迎来到我的主页---
+## Hello，欢迎来到我的主页！👋
+![About me](https://github-readme-stats.vercel.app/api?username=Waoooooooo&show_icons=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waoooooooo&layout=compact)
+
 ---
